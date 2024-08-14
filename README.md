@@ -18,6 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 
+![image](https://github.com/user-attachments/assets/eda431bf-4057-460c-a7e9-442e05af7177)
+
 
 ![image](https://github.com/user-attachments/assets/0a8b4e16-5212-4d91-ac4e-be9225a56570)
 color card
